@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Awakening Falchion",
+        "price": 10.99,
+        "imgUrl": "/imgs/A Falchion.png"
+    },
+    {
+        "id": 2,
+        "name": "Falchion",
+        "price": 499.99,
+        "imgUrl": "/imgs/Falchion.png"
+    },
+    {
+        "id": 3,
+        "name": "Mirage Falchion",
+        "price": 0.99,
+        "imgUrl": "/imgs/Mirage.png"
+    },
+    {
+        "id": 4,
+        "name": "Tiara",
+        "price": 29.99,
+        "imgUrl": "/imgs/Tiara.png"
+    }
+]
